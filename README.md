@@ -8,4 +8,4 @@ stop using them right now and make your migration to the future Ember 2.0 easier
 
 ## Installation
 
-* `ember install Ember-disable-proxy-controllers`
+* `ember install ember-disable-proxy-controllers`
