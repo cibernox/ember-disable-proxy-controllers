@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/cibernox/ember-disable-proxy-controllers",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Miguel Camba",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
