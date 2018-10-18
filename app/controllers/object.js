@@ -1,2 +1,3 @@
-import Ember from 'ember';
-export default Ember.Controller;
+import Controller from '@ember/controller';
+
+export default Controller;
